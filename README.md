@@ -32,3 +32,16 @@ I am ginving information for the 4 sports that i play on regular basis.
 | Volleyball | IT's Interesting | 2     |
 | Basketball | It's fun         | 2     |
 | Cricket    | It's cool        | 2     |
+
+---
+## Quotes
+
+*Albert Einstein*
+>"Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution."
+
+>"The only source of knowledge is experience."
+
+*Marie Curie*
+>"Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less."
+
+>"I was taught that the way of progress was neither swift nor easy."
