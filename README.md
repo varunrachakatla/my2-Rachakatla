@@ -13,8 +13,8 @@ Goa has a rich history with influences from Portuguese colonization. Visit histo
 
 Goa has a vibrant nightlife scene with beachfront clubs, bars, and live music venues. Head to places like Tito's Lane in Baga or the Anjuna Flea Market for a lively evening. You can dance the night away to music from top DJs, savor delicious cuisine, and enjoy the coastal nightlife culture.
 
-*Fish Rice Curry
-*Vindaloo
-*Xacuti
-*Sorpotel
-*Cafreal
+* Fish Rice Curry
+* Vindaloo
+* Xacuti
+* Sorpotel
+* Cafreal
