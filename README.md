@@ -20,3 +20,15 @@ Goa has a vibrant nightlife scene with beachfront clubs, bars, and live music ve
 * Cafreal
 
 **[Click here to navigate to Mystats.md](./MyStats.md)**
+
+---
+## Sports
+
+I am ginving information for the 4 sports that i play on regular basis.
+
+| Name       | Reason           | Hours |
+|------------|------------------|-------|
+| Football   | It's Awesome     | 4     |
+| Volleyball | IT's Interesting | 2     |
+| Basketball | It's fun         | 2     |
+| Cricket    | It's cool        | 2     |
