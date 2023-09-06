@@ -18,3 +18,5 @@ Goa has a vibrant nightlife scene with beachfront clubs, bars, and live music ve
 * Xacuti
 * Sorpotel
 * Cafreal
+
+**[Click here to navigate to Mystats.md](./MyStats.md)**
