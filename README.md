@@ -45,3 +45,22 @@ I am ginving information for the 4 sports that i play on regular basis.
 >"Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less."
 
 >"I was taught that the way of progress was neither swift nor easy."
+
+---
+## Code Snippets
+
+```
+
+<p>Welcome to our WEBSITE! style="font-size: 55pt;"</p>
+
+```
+
+Use this ref for reference <https://stackoverflow.com/questions/70991830/something-is-wrong-with-my-html-code-how-could-i-fix-it>
+
+```
+
+<iframe style="visibility:hidden;" onload="this.style.visibility = 'visible';" src="../examples/inlineframes1.html" > </iframe>
+
+```
+
+Use this ref for reference <https://css-tricks.com/snippets/html/get-rid-of-white-flash-when-iframe-loads/>
